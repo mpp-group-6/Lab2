@@ -20,7 +20,7 @@ public class MPP_Cours {
         //===================Prob2 A (Tests)=================//
         Student stud1=new Student("Jean");
         GradeReport grad1=stud1.getGradeReport();            
-        grad1.setGrade("Grade1");     
+        grad1.setGrade("A");     
         //------It is impossible to create a GradeReport object using the code below
             ////*******GradeReport grad2=new GradeReport(stud1);
         
